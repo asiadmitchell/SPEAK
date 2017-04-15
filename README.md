@@ -13,5 +13,5 @@
 #### Aim 1: SPEAK by PSA (Science Public Engagement AsKs)
 
 #### Create a tool or centralized system that allows: 
-####   (A) scientists to access opportunities to communicate with the public in the Portland-metro region, and 
-####   (B) the public to identify meaningful opportunities to engage in science.
+*   (A) scientists to access opportunities to communicate with the public in the Portland-metro region, and 
+*   (B) the public to identify meaningful opportunities to engage in science.
